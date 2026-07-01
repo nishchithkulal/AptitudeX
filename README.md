@@ -243,8 +243,6 @@ The project is compatible with Vercel deployment.
 
 **Mayur Naik**
 
-Computer Science & Design Engineering Student
-
 ---
 
 ## 📄 License
