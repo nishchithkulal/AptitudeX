@@ -248,3 +248,5 @@ The project is compatible with Vercel deployment.
 ## 📄 License
 
 This project is intended for educational and portfolio purposes.
+
+
